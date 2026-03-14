@@ -30,7 +30,7 @@
 
 **PDF RAG Chatbot** is a production-grade, full-stack **Retrieval-Augmented Generation (RAG)** application that enables users to upload PDF documents and have intelligent conversations with their content. It combines LangChain's powerful abstractions, LangGraph's state machine orchestration, and OpenAI's GPT-4o to deliver accurate, context-aware answers with source citations.
 
-> **Built by [Pavan Adithya](https://github.com/pavanadithya)** — A scalable reference architecture for building LLM-powered document intelligence systems.
+> **Built by [Pavan Adithya](https://github.com/AdithyaVenna)** — A scalable reference architecture for building LLM-powered document intelligence systems.
 
 ---
 
@@ -373,7 +373,7 @@ pdf-rag-chatbot/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/pavanadithya/pdf-rag-chatbot.git
+git clone https://github.com/AdithyaVenna/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
 yarn install
 ```
