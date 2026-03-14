@@ -30,7 +30,7 @@
 
 **PDF RAG Chatbot** is a production-grade, full-stack **Retrieval-Augmented Generation (RAG)** application that enables users to upload PDF documents and have intelligent conversations with their content. It combines LangChain's powerful abstractions, LangGraph's state machine orchestration, and OpenAI's GPT-4o to deliver accurate, context-aware answers with source citations.
 
-> **Built by [Pavan Adithya](https://github.com/AdithyaVenna)** — A scalable reference architecture for building LLM-powered document intelligence systems.
+> **Built by [VENNA PAVAN ADITHYA](https://github.com/AdithyaVenna)** — A scalable reference architecture for building LLM-powered document intelligence systems.
 
 ---
 
@@ -593,7 +593,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  <strong>Built with ❤️ by <a href="https://github.com/pavanadithya">Pavan Adithya</a></strong>
+  <strong>Built with ❤️ by <a href="https://github.com/AdithyaVenna">VENNA PAVAN ADITHYA</a></strong>
   <br />
   <sub>⭐ Star this repo if you find it helpful!</sub>
 </p>

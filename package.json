@@ -3,7 +3,7 @@
     "description": "Intelligent PDF RAG Chatbot powered by LangChain, LangGraph & OpenAI — upload PDFs and chat with your documents using advanced retrieval-augmented generation",
     "private": true,
     "version": "1.0.0",
-    "author": "Pavan Adithya",
+    "author": "VENNA PAVAN ADITHYA",
     "license": "MIT",
     "workspaces": [
       "backend",
