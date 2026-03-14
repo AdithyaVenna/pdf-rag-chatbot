@@ -1,0 +1,23 @@
+{
+    "name": "pdf-rag-chatbot",
+    "description": "Intelligent PDF RAG Chatbot powered by LangChain, LangGraph & OpenAI — upload PDFs and chat with your documents using advanced retrieval-augmented generation",
+    "private": true,
+    "version": "1.0.0",
+    "author": "Pavan Adithya",
+    "license": "MIT",
+    "workspaces": [
+      "backend",
+      "frontend"
+    ],
+    "scripts": {
+      "build": "yarn run turbo:command build",
+      "turbo:command": "yarn turbo",
+      "lint": "yarn run turbo:command lint",
+      "lint:fix": "yarn run turbo:command lint:fix", 
+      "format": "yarn run turbo:command format",
+      "format:check": "yarn run turbo:command format:check"
+    },
+    "devDependencies": {
+      "turbo": "latest"
+    }
+  }
